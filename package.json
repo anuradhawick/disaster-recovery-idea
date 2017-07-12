@@ -10,16 +10,16 @@
   "author": "Anuradha Wickramarachchi",
   "license": "ISC",
   "devDependencies": {
+    "@types/express": "^4.0.36",
+    "@types/lodash": "^4.14.68",
     "@types/node": "^7.0.31",
+    "@types/synaptic": "^1.0.2",
     "nodemon": "^1.11.0",
     "ts-node": "^3.0.6",
     "typescript": "^2.3.4"
   },
   "dependencies": {
-    "@types/lodash": "^4.14.68",
-    "@types/synaptic": "^1.0.2",
-    "clear": "0.0.1",
-    "lodash": "^4.17.4",
-    "synaptic": "^1.0.12"
+    "express": "^4.15.3",
+    "lodash": "^4.17.4"
   }
 }
